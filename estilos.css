@@ -1,0 +1,26 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: rgb(9, 14, 14);
+}
+
+img{
+    border-radius: 4px;
+    border: none;
+    width: auto;
+    color: white;
+    padding: 6px 16px;
+    margin: 0px;
+    font-size: 16px;
+    cursor: pointer;
+    backdrop-filter: blur(10px);
+}
+
+
+.jumbotron{
+    background-color: #d14545;
+    height: 230px;
+}
+.panel-body{
+    backdrop-filter: blur(10px);
+}
